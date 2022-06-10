@@ -17,7 +17,7 @@ figure; % open a new figure window
 %       appear as red crosses. Furthermore, you can make the
 %       markers larger by using plot(..., 'rx', 'MarkerSize', 10);
 
-% the solution for this exercise
+% the solution for this exercise is as follows
 
 data = load('ex1data1.txt');
 X = data(:, 1);
